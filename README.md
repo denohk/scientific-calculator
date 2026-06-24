@@ -30,10 +30,8 @@ To run this project locally:
 3. Build and run on an Android Emulator or a physical Android device.
 
 ## 📱 Screenshots
-<img width="386" height="888" alt="image" src="https://github.com/user-attachments/assets/136bcd97-bd56-45f0-b650-33016fc23c52" />
+<img width="385" height="894" alt="image" src="https://github.com/user-attachments/assets/7b296523-eddd-427b-ba7c-2dd25c14b7af" />
 
-Copied from: Editing scientific-calculator/README.md at main · denohk/scientific-calculator - <https://github.com/denohk/scientific-calculator/edit/main/README.md>
-<img width="386" height="888" alt="image" src="https://github.com/user-attachments/assets/136bcd97-bd56-45f0-b650-33016fc23c52" />
 
 *(You can add screenshots of your calculator here later to show off the beautiful UI!)*
 
