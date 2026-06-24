@@ -1,8 +1,8 @@
 # Split-Flap Scientific Calculator
 
-A beautifully engineered Scientific Calculator for Android built entirely with **Jetpack Compose**. 
+A beautifully engineered, **first-of-its-kind** Scientific Calculator for Android built entirely with **Jetpack Compose**. 
 
-Unlike standard flat interfaces, this calculator features a **True 3D Split-Flap Physics Engine**. Every number and operator you type—and every result in the scrolling history tape—mechanically flips into place, mimicking the authentic physics of retro train-station displays and mechanical alarm clocks.
+Unlike standard flat interfaces, we have completely renewed the calculator experience with a **True 3D Split-Flap Physics Engine**—a feature that is **completely unique in the app industry**. Every number and operator you type—and every result in the scrolling history tape—mechanically flips into place, mimicking the authentic physics of retro train-station displays and mechanical alarm clocks.
 
 ## Features
 
