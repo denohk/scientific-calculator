@@ -32,6 +32,9 @@ To run this project locally:
 ## 📱 Screenshots
 <img width="386" height="888" alt="image" src="https://github.com/user-attachments/assets/136bcd97-bd56-45f0-b650-33016fc23c52" />
 
+Copied from: Editing scientific-calculator/README.md at main · denohk/scientific-calculator - <https://github.com/denohk/scientific-calculator/edit/main/README.md>
+<img width="386" height="888" alt="image" src="https://github.com/user-attachments/assets/136bcd97-bd56-45f0-b650-33016fc23c52" />
+
 *(You can add screenshots of your calculator here later to show off the beautiful UI!)*
 
 ## 📄 License
